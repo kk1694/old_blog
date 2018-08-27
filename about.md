@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![](/assets/img/pic_wide.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm Krisztian Kovacs. I created this site to document the stuff I learn, the tools I use, and the ideas that inevitably pop into my head. Mostly about statistics and ML.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Last year I decided to take some time off work. I travelled to Asia, trained in a kung fu school, meditated in a Thai monastery, and fell in love.
+
+Then I determined to expand my knowledge on machine learning - deep learning in particular. Hence this site - I will post on my progress and my notes. If nobody is interested, it'll still be a useful resource for my future selves.
 
 
-[jekyll-organization]: https://github.com/jekyll
