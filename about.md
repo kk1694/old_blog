@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![](/assets/img/pic_wide.jpg)
+![](/assets/img/pic2.jpg){:height="360px" style="float: left;margin-right: 15px"}
 
 I'm Krisztian Kovacs. I created this site to document the stuff I learn, the tools I use, and the ideas that inevitably pop into my head. Mostly about statistics and ML.
 
