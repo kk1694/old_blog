@@ -10,6 +10,6 @@ I'm Krisztian Kovacs. I created this site to document the stuff I learn, the too
 
 Last year I decided to take some time off work. I travelled to Asia, trained in a kung fu school, meditated in a Thai monastery, and fell in love.
 
-Then I determined to expand my knowledge on machine learning - deep learning in particular. Hence this site - I will post on my progress and my notes. If nobody is interested, it'll still be a useful resource for my future selves.
+Then I determined to expand my knowledge on machine learning - deep learning in particular. Hence this site - I will post on my progress and my notes. 
 
 
