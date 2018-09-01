@@ -1,2 +1,2 @@
 # kk1694.github.io
-Personal webpage repository.
+Repository for [krisztiankovacs.com](krisztiankovacs.com)
