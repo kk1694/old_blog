@@ -18,8 +18,8 @@ email: krisztiankovacs@fastmail.com
 description: Mostly about machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: tbd
+github_username:  kk1694
 
 # Build settings
 markdown: kramdown
