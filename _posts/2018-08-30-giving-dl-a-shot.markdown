@@ -3,7 +3,6 @@ layout: post
 title:  "Diving into Deep Learning"
 date:   2018-08-29 09:11:44 +0700
 categories: deep learning
-comments: false
 ---
 I've decided to give deep learning a shot.
 
