@@ -11,6 +11,10 @@ I spent this week reviewing prerequisites. To brush up on machine learning, I co
 
 I finished with my plan ahead of schedule, watching the fast.ai videos on single label image classification. I coded up some of my own experiments, such as a [Jupyter notebook that downloads pictures of Obama and Trump and builds an image classifier based on them](https://github.com/kk1694/fastai_projects1/blob/master/Obama_Trump_Classification.ipynb).
 
+### Week 2
+
+Completed much of the fast.ai course. Created a [Harry Potter image classifier]({% post_url 2018-09-09-harry-potter-image-classification %}). Coded up toy drafts on [structured learning](https://github.com/kk1694/fastai_projects1/blob/master/predict_future_sales.ipynb), [recommender systems](https://github.com/kk1694/fastai_projects1/blob/master/joke_recommendations.ipynb), and [nlp](https://github.com/kk1694/fastai_projects1/blob/master/joke_prediction.ipynb) using different datasets than in the course (didn't optimize for good results though). Through them I familiarized myself with fast.ai and pytorch code.
+
 
 
 
