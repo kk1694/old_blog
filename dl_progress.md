@@ -15,6 +15,8 @@ I finished with my plan ahead of schedule, watching the fast.ai videos on single
 
 Completed much of the fast.ai course. Created a [Harry Potter image classifier]({% post_url 2018-09-09-harry-potter-image-classification %}). Coded up toy drafts on [structured learning](https://github.com/kk1694/fastai_projects1/blob/master/predict_future_sales.ipynb), [recommender systems](https://github.com/kk1694/fastai_projects1/blob/master/joke_recommendations.ipynb), and [nlp](https://github.com/kk1694/fastai_projects1/blob/master/joke_prediction.ipynb) using different datasets than in the course (didn't optimize for good results though). Through them I familiarized myself with fast.ai and pytorch code.
 
+### Week 3
 
+I watched the first two parts of the Coursera deep learning lecture by Andrew Ng. Completed the first two weeks of material for Siraj Raval's School of AI course. Slightly behind completing part 1 of fast.ai.
 
 
