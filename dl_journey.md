@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Deep Learning Progress
-permalink: /dl_progress/
+title: Deep Learning Journey
+permalink: /dl_journey/
 ---
 
 At the beginning of September 2018, [I made a plan]({% post_url 2018-09-01-dl-journey-overview %}) to spend the next 25 weeks studying deep learning. This page gives updates on my progress.
