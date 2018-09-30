@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reinforcement Learning Notes 1"
+title:  "RL Notes 1: Basics"
 date:   2018-09-19 09:11:44 +0700
 categories: reinforcement_learning
 ---
