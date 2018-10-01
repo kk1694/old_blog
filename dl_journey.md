@@ -19,4 +19,10 @@ Completed much of the fast.ai course. Created a [Harry Potter image classifier](
 
 I watched the first two parts of the Coursera deep learning lecture by Andrew Ng. Completed the first two weeks of material for Siraj Raval's School of AI course. Slightly behind completing part 1 of fast.ai.
 
+### Week 4
+
+I finished part 1 of the fast.ai course, and watched the Coursera DL lectures up to part 5. Completed week 3 of the Move37 RL course.
+
+I also started working on the [Inclusive Images](https://www.kaggle.com/c/inclusive-images-challenge) competition on Kaggle. Thanks to google, all participants received $1000 worth of computing credits on google cloud. I set up my google cloud machine and downloaded the images (which, taking more than 500 GB, needed more than a day to download).
+
 
