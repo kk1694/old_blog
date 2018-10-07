@@ -25,4 +25,8 @@ I finished part 1 of the fast.ai course, and watched the Coursera DL lectures up
 
 I also started working on the [Inclusive Images](https://www.kaggle.com/c/inclusive-images-challenge) competition on Kaggle. Thanks to google, all participants received $1000 worth of computing credits on google cloud. I set up my google cloud machine and downloaded the images (which, taking more than 500 GB, needed more than a day to download).
 
+#### Week 5
+
+This week I started blitzing through Coursera's deep learning specialization. I finished the first four out of five parts/modules. Each part is supposed to take a few weeks; however, I have already watched most of the lectures, and the programming assignments are extremely easy. I will finish early next week. 
+
 
