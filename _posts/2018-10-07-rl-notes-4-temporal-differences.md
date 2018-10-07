@@ -5,7 +5,7 @@ date:   2018-10-07 09:11:44 +0700
 categories: reinforcement_learning
 ---
 
-[Previous week's notes]({post_url 2018-09-30-rl-notes-3-exporation-vs-exploitation})
+[Previous week's notes]({%post_url 2018-09-30-rl-notes-3-exporation-vs-exploitation%})
 
 (You can find the notebook containing the code [here](https://github.com/kk1694/rl_course/blob/master/rl_notes_4.ipynb))
 
