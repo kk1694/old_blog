@@ -1,8 +1,12 @@
 ---
 layout: post
+category: blog
+author: krisztiankovacs
 title:  "Deep Learning Journey 1 Month Review"
 date:   2018-10-03 09:11:44 +0700
-categories: deep learning
+tag:
+- deep learning journey
+description: Reviewing my progress on deep learning studies.
 ---
 
 It has been a busy month. After planning out [how to approach deep learning]({%post_url 2018-09-01-dl-journey-overview%}), I dove straight into it. 

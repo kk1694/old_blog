@@ -1,8 +1,12 @@
 ---
 layout: post
+category: blog
+author: krisztiankovacs
 title:  "RL Notes 1: Basics"
 date:   2018-09-19 09:11:44 +0700
-categories: reinforcement_learning
+tag:
+- reinforcement learning
+description: Notes for week 1 of Siraj Raval's RL course.
 ---
 
 These notes are based on [Siraj Raval's reinforcement learning course](https://www.youtube.com/watch?v=fRmZck1Dakc). This week was about basic concepts of markov decision processes (MDPs).

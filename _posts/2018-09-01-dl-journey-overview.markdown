@@ -1,8 +1,12 @@
 ---
 layout: post
+category: blog
+author: krisztiankovacs
 title:  "Deep Learning Study Plan"
 date:   2018-09-01 09:11:44 +0700
-categories: deep learning
+tag:
+- deep learning journey
+description: Outlining study plan for deep learning.
 ---
 
 I plan to spend the next 6 months, roughly 25 weeks, [studying deep learning]({% post_url 2018-08-30-giving-dl-a-shot %}); commenting on each weeks' achievements as I go. I'll spend the first 10 weeks getting up to speed with the material, using various online resources (see below). I don't have a clear plan for weeks 11-25 yet; they will mostly depend on what I find most fascinating in the first ten weeks. I expect that as I progress my focus will gradually shift from studying material to completing interesting projects.

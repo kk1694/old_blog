@@ -1,8 +1,12 @@
 ---
 layout: post
+category: blog
+author: krisztiankovacs
 title:  "Keeping Track of Progress"
 date:   2018-09-08 09:11:44 +0700
-categories: deep learning
+tag:
+- deep learning journey
+description: Creating page for tracking progress.
 ---
 
 ![](/assets/img/meme_ml_learning.jpg){:height="200" style="float: right;margin-left: 15px"}

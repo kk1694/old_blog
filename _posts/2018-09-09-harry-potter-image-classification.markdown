@@ -1,8 +1,13 @@
 ---
 layout: post
+category: blog
+author: krisztiankovacs
 title:  "Harry Potter Image Image Classification"
 date:   2018-09-09 09:11:44 +0700
-categories: deep learning
+tag:
+- deep learning
+- deep learning journey
+description: Explaining image classification with images downloaded from Google.
 ---
 
 As an exercise, I decided to try fast.ai's image classification algorithms on a new dataset: ten Harry Potter characters. I used [this](https://github.com/hardikvasa/google-images-download) python script to automatically download images from google. Even though it can only download 100 images per keyword (without additional installations), it is still quite a handy tool.

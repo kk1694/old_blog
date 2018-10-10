@@ -1,8 +1,12 @@
 ---
 layout: post
+category: blog
+author: krisztiankovacs
 title:  "RL Notes 4: Temporal Differences"
 date:   2018-10-07 09:11:44 +0700
-categories: reinforcement_learning
+tag: 
+- reinforcement learning
+description: Notes for week 4 of Siraj Raval's RL course.
 ---
 
 [Previous week's notes]({%post_url 2018-09-30-rl-notes-3-exporation-vs-exploitation%})
