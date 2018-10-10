@@ -3,7 +3,7 @@ name: Krisztian Kovacs
 bio: Learning to teach computers to learn.
 
 # twitter summary info
-description: Machine learning notes
+description: Learning to teach computers to learn.
 
 # if it's an external image, update below for true
 # better with square images
@@ -56,7 +56,7 @@ email: krisztiankovacs@fastmail.com
 authors:
     krisztiankovacs:
         name: Krisztian Kovacs
-        bio: Studying machine learning.
+        bio: Learning to teach computers to learn.
         external-image: false
         picture: assets/img/pic4.jpg
         twitter: kk1694
