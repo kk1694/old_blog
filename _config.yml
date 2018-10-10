@@ -1,6 +1,6 @@
 # main text of home
 name: Krisztian Kovacs
-bio: Machine learning notes
+bio: Learning to teach computers to learn.
 
 # twitter summary info
 description: Machine learning notes
@@ -8,7 +8,7 @@ description: Machine learning notes
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/img/pic2.jpg
+picture: assets/img/pic4.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -58,7 +58,7 @@ authors:
         name: Krisztian Kovacs
         bio: Studying machine learning.
         external-image: false
-        picture: assets/img/pic2.jpg
+        picture: assets/img/pic4.jpg
         twitter: kk1694
 
 # do you want a larger site? change the option below
@@ -71,7 +71,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
