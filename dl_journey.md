@@ -37,4 +37,6 @@ I also started working on the [Inclusive Images](https://www.kaggle.com/c/inclus
 
 This week I started blitzing through Coursera's deep learning specialization. I finished the first four out of five parts/modules. Each part is supposed to take a few weeks; however, I have already watched most of the lectures, and the programming assignments are extremely easy. I will finish early next week. 
 
+#### Week 6
 
+I finished the Coursera DL specialization early this week. I found the course great, I'll write up a detailed review soon, along with some highlighted tips and tricks. I also watched lectures 9-10 of fast.ai, but didn't give it any serious effort. Other than that, I started programming a language detection task, and gave my website a new design.
