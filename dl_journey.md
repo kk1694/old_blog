@@ -40,3 +40,11 @@ This week I started blitzing through Coursera's deep learning specialization. I 
 #### Week 6
 
 I finished the Coursera DL specialization early this week. I found the course great, I'll write up a detailed review soon, along with some highlighted tips and tricks. I also watched lectures 9-10 of fast.ai, but didn't give it any serious effort. Other than that, I started programming a language detection task, and gave my website a new design.
+
+#### Week 7
+
+I didn't achieve much on the learning front this week. I watched the fastai part 2 lectures (11 to 14), and completed the midterm for the RL course. The rest of the time I spent doing administrative tasks, such as updating and formatting my resume. I also took some time off for personal reasons (relatives visiting).
+
+#### Week 8-9
+
+These two weeks I was taking time off from my projects (due to family visit and a trip to China). Plenty to catch up on.
