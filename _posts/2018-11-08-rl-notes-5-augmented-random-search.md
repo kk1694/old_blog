@@ -9,7 +9,7 @@ tag:
 description: Notes for week 5 of Siraj Raval's RL course.
 ---
 
-[Previous week's notes]({%post_url 2018-09-30-rl-notes-4-temporal-differences%})
+[Previous week's notes]({%post_url 2018-10-07-rl-notes-4-temporal-differences%})
 
 (You can find the notebook teaching a 2D robot to walk [here](https://github.com/kk1694/rl_course/blob/master/Midterm.ipynb))
 
