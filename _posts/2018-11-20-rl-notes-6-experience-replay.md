@@ -25,13 +25,13 @@ We start with a randomly initialized Q function. We play a couple of rounds with
 
 Our Q function is thus doing two jobs. It is used for evaluating the next state, thus providing the dependent variable for our supervised learning problem. And it is also the object that is trained. Surprisingly, such an iterative strategy works, and our Q function converges. For optimization purposes, it is better to keep two separate copies of the same network: one for evaluation, one for training. We then periodically copy the weights we learned over to our evaluation network.
 
-It is important to note, that we should also do some exploration, and not just follow our Q function. An [epsilon-greedy]({%post_url 2018-09-30-rl-notes-3-exporation-vs-exploitation%}) strategy works: most of the time, we do the (so-far-judged-to-be) optimal action, but every now and then we take a random action instead.
+Note that we should also do some exploration, and not just follow our Q function. An [epsilon-greedy]({%post_url 2018-09-30-rl-notes-3-exporation-vs-exploitation%}) strategy works: most of the time, we do the (so-far-judged-to-be) optimal action, but every now and then we take a random action instead.
 
-Step-by-step our strategy is as follows:
+Step-by-step our strategy is the following:
 1. Initialize Q with random weights.
 1. Make a copy of Q to serve as evaluation, call it $$Q'$$.
 1. Play the game for a few rounds using Q and an epsilon-greedy strategy. Save (state, action, reward, next state) in a buffer.
-1. Randomly sample mini-batches from buffer. Construct the target to be $$y_t = reward_t + max Q'_{t+1}$$
+1. Randomly sample mini-batches from the buffer. Construct the target to be $$y_t = reward_t + max Q'_{t+1}$$
 1. Using a loss function and gradient descent, update Q.
 1. Periodically, set $$Q'$$ equal to $$Q$$.
 
