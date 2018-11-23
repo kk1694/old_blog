@@ -9,11 +9,11 @@ tag:
 description: Notes for week 7 of Siraj Raval's RL course.
 ---
 
-[Previous week's notes]({%post_url 2018-11-19-rl-notes-6-experience-replay%})
+[Previous week's notes]({%post_url 2018-11-20-rl-notes-6-experience-replay%})
 
 (You can find the notebook teaching a 2D robot to walk [here](https://github.com/kk1694/rl_course/blob/master/Week_7.ipynb))
 
-The previous couple of posts were about optimizing RL agents, whether with [augmented random search]({%post_url 2018-11-08-rl-notes-5-augmented-random-search%}) or [an experience replay buffer]({%post_url 2018-11-19-rl-notes-6-experience-replay%}). Now let's add one more method to the list: genetic algorithms.
+The previous couple of posts were about optimizing RL agents, whether with [augmented random search]({%post_url 2018-11-08-rl-notes-5-augmented-random-search%}) or [an experience replay buffer]({%post_url 2018-11-20-rl-notes-6-experience-replay%}). Now let's add one more method to the list: genetic algorithms.
 
 Before explaining genetic algorithms, there is one other major change. Last week I was learning the Q (action-value) function, then acting based on that. However, if the action space is vast (or infinite), that method wouldn't work. After all, we would need to learn an action value for every action! Instead, I'll be learning the policy, the mapping from states to actions, directly. For each state, I want to output the best action.
 
