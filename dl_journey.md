@@ -48,3 +48,15 @@ I didn't achieve much on the learning front this week. I watched the fastai part
 #### Week 8-9
 
 These two weeks I was taking time off from my projects (due to family visit and a trip to China). Plenty to catch up on.
+
+#### Week 10
+
+Created a [language detection model](https://github.com/kk1694/Lang_Detect) that can classify the 21 languages spoken in the EU.
+
+#### Week 11
+
+Another week off from my projects. Plenty more to catch up on.
+
+#### Week 12
+
+I got back on track and caught up with most of the RL course. I did the assignments for week [6](https://github.com/kk1694/rl_course/blob/master/week6.ipynb), [7](https://github.com/kk1694/rl_course/blob/master/Week_7.ipynb), and [8](https://github.com/kk1694/rl_course/blob/master/week8.ipynb).
