@@ -27,7 +27,7 @@ I am also changing some of my plans going forward. Jeremy Howard recently announ
 
 Overall, I'm quite happy with how this month turned out. My greatest improvement has been with pytorch - a library I knew nothing about a month ago, and by now I feel quite confident using it to implement most of the basic DL models.
 
-
+Update: looks like I committed to a little too much. I wasn't able to finish the Inclusive Images competition. Still, it taught me quite a bit about using Google Cloud.
 
 
 
