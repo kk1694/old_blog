@@ -1,14 +1,14 @@
 # main text of home
 name: Krisztian Kovacs
-bio: Learning to teach computers to learn.
+bio: Teaching computers to learn.
 
 # twitter summary info
-description: Learning to teach computers to learn.
+description: Teaching computers to learn.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/img/pic4.jpg
+picture: 'assets/img/Kris Headshot 21- ps.jpg'
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -39,7 +39,7 @@ twitter: kk1694
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: krisztiankovacs1991
 # youtube: myyoutube
 # spotify: myspotify
 github: kk1694
